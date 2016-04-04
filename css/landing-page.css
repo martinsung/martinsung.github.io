@@ -117,7 +117,7 @@ h6 {
     padding: 300px 0;
     color: #f8f8f8;
     background: url(../img/aitp_banner.jpg) no-repeat center center;
-    background-size: cover;
+    background-size: contain;
 }
 
 .banner h2 {

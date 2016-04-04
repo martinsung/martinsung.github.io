@@ -1187,7 +1187,7 @@ h6,
   font-family: inherit;
   font-weight: 500;
   line-height: 1.1;
-  color: inherit;
+  color: #5BCFBB;
 }
 h1 small,
 h2 small,
@@ -3015,7 +3015,7 @@ select[multiple].input-lg {
   -ms-touch-action: manipulation;
       touch-action: manipulation;
   cursor: pointer;
-  -webkit-user-select: none;
+  -webkit-uF-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
